@@ -2,7 +2,7 @@
 
 💻  Student of **Informatics Engineering**
 🔧  Currently learning: **HTML, CSS, and JavaScript**  
-📍   Based in **Indonesia**  
+📍   Based in **Indonesia**
 
 ---
 
