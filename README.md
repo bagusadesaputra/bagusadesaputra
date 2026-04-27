@@ -1,11 +1,26 @@
-# 👋 Welcome to My Profile
+# Hi, I'm Bagus 👋
 
-<ul>
-  <li>Student of <strong>Informatics Engineering</strong></li>
-  <li>Currently learning: <strong>HTML, CSS, and JavaScript</strong></li>
-  <li>Based in <strong>Indonesia</strong></li>
-</ul>
+Informatics Engineering student who enjoys building web apps and tinkering with code.
 
-## 📈 Learning Progress at Roadmap.sh
+---
 
-<a href="https://roadmap.sh"><img src="https://roadmap.sh/card/wide/66b9e7fcb64402e0529b7bd7?variant=dark&roadmaps=html%2Ccss%2Cjavascript" alt="roadmap.sh"/></a>
+### 🛠 Tech Stack
+
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![CodeIgniter](https://img.shields.io/badge/CodeIgniter-EF4223?style=flat-square&logo=codeigniter&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=flat-square&logo=bootstrap&logoColor=white)
+
+---
+
+### 📌 About Me
+
+- 🎓 Final-year student at Universitas Indraprasta PGRI
+- 💻 Interested in web development
+- 🎮 Into gaming and laptop tinkering on the side
+
+---
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=bagusadesaputra&style=flat-square&color=grey" alt="profile views" />
+</p>
